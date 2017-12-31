@@ -1,2 +1,2 @@
-# aniveera1.github.io
-Source code for my personal website
+# archit.nxtpitch
+Code for Archit Bose's NXTPitch Site
